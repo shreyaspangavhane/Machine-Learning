@@ -1,0 +1,38 @@
+,movie_id,title,budget,revenue,year_classify
+0,101,K.G.F: Chapter 2,1.0,12.5,From 2000
+1,102,Doctor Strange in the Multiverse of Madness,200.0,954.8,From 2000
+2,103,Thor: The Dark World ,165.0,644.8,From 2000
+3,104,Thor: Ragnarok ,180.0,854.0,From 2000
+4,105,Thor: Love and Thunder ,250.0,670.0,From 2000
+5,111,The Shawshank Redemption,25.0,73.3,before 2000
+6,113,Interstellar,165.0,701.8,From 2000
+7,115,The Pursuit of Happyness,55.0,307.1,From 2000
+8,116,Gladiator,103.0,460.5,From 2000
+9,117,Titanic,200.0,2202.0,before 2000
+10,118,It's a Wonderful Life,3.18,3.3,before 2000
+11,119,Avatar,237.0,2847.0,From 2000
+12,120,The Godfather,7.2,291.0,before 2000
+13,121,The Dark Knight,185.0,1006.0,From 2000
+14,122,Schindler's List,22.0,322.2,before 2000
+15,123,Jurassic Park,63.0,1046.0,before 2000
+16,124,Parasite,15.5,263.1,From 2000
+17,125,Avengers: Endgame,400.0,2798.0,From 2000
+18,126,Avengers: Infinity War,400.0,2048.0,From 2000
+19,137,Captain America: The First Avenger,216.7,370.6,From 2000
+20,138,Captain America: The Winter Soldier,177.0,714.4,From 2000
+21,107,Dilwale Dulhania Le Jayenge,400.0,2000.0,before 2000
+22,108,3 Idiots,550.0,4000.0,From 2000
+23,109,Kabhi Khushi Kabhie Gham,390.0,1360.0,From 2000
+24,110,Bajirao Mastani ,1.4,3.5,From 2000
+25,128,Taare Zameen Par,120.0,1350.0,From 2000
+26,129,Munna Bhai M.B.B.S.,100.0,410.0,From 2000
+27,130,PK,850.0,8540.0,From 2000
+28,131,Sanju,1.0,5.9,From 2000
+29,135,The Kashmir Files,250.0,3409.0,From 2000
+30,136,Bajrangi Bhaijaan,900.0,11690.0,From 2000
+31,139,Race 3,1.8,3.1,From 2000
+32,140,Shershaah,500.0,950.0,From 2000
+33,127,Pather Panchali,70000.0,100000.0,before 2000
+34,132,Pushpa: The Rise - Part 1,2.0,3.6,From 2000
+35,133,RRR,5.5,12.0,From 2000
+36,134,Baahubali: The Beginning,1.8,6.5,From 2000

@@ -1,0 +1,8 @@
+{
+    "name": "json",
+    "description": "Shreyas",
+    "main": "index",
+    "type": "module",
+    "author": "Shreyas Pangavhane",
+    "license": "ISC"
+}
