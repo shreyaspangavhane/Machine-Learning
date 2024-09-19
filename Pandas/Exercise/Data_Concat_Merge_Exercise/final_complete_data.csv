@@ -1,0 +1,40 @@
+movie_id,title,lang_name,budget_x,revenue_x,currency_x
+101,K.G.F: Chapter 2,Kannada,1.0,12.5,INR
+102,Doctor Strange in the Multiverse of Madness,English,200.0,954.8,USD
+103,Thor: The Dark World ,English,165.0,644.8,USD
+104,Thor: Ragnarok ,English,180.0,854.0,USD
+105,Thor: Love and Thunder ,English,250.0,670.0,USD
+106,Sholay,Hindi,,,
+107,Dilwale Dulhania Le Jayenge,Hindi,400.0,2000.0,INR
+108,3 Idiots,Hindi,550.0,4000.0,INR
+109,Kabhi Khushi Kabhie Gham,Hindi,390.0,1360.0,INR
+110,Bajirao Mastani ,Hindi,1.4,3.5,INR
+111,The Shawshank Redemption,English,25.0,73.3,USD
+112,Inception,English,,,
+113,Interstellar,English,165.0,701.8,USD
+115,The Pursuit of Happyness,English,55.0,307.1,USD
+116,Gladiator,English,103.0,460.5,USD
+117,Titanic,English,200.0,2202.0,USD
+118,It's a Wonderful Life,English,3.18,3.3,USD
+119,Avatar,English,237.0,2847.0,USD
+120,The Godfather,English,7.2,291.0,USD
+121,The Dark Knight,English,185.0,1006.0,USD
+122,Schindler's List,English,22.0,322.2,USD
+123,Jurassic Park,English,63.0,1046.0,USD
+124,Parasite,English,15.5,263.1,USD
+125,Avengers: Endgame,English,400.0,2798.0,USD
+126,Avengers: Infinity War,English,400.0,2048.0,USD
+127,Pather Panchali,Bengali,70000.0,100000.0,INR
+128,Taare Zameen Par,Hindi,120.0,1350.0,INR
+129,Munna Bhai M.B.B.S.,Hindi,100.0,410.0,INR
+130,PK,Hindi,850.0,8540.0,INR
+131,Sanju,Hindi,1.0,5.9,INR
+132,Pushpa: The Rise - Part 1,Telugu,2.0,3.6,INR
+133,RRR,Telugu,5.5,12.0,INR
+134,Baahubali: The Beginning,Telugu,1.8,6.5,INR
+135,The Kashmir Files,Hindi,250.0,3409.0,INR
+136,Bajrangi Bhaijaan,Hindi,900.0,11690.0,INR
+137,Captain America: The First Avenger,English,216.7,370.6,USD
+138,Captain America: The Winter Soldier,English,177.0,714.4,USD
+139,Race 3,Hindi,1.8,3.1,INR
+140,Shershaah,Hindi,500.0,950.0,INR
